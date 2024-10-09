@@ -182,4 +182,3 @@ foreach ($names as $index => $name) {
     echo "Judul dan deskripsi berhasil dibuat dan disimpan di $fileName\n";
 }
 ?>
-Something is wrong with the XAMPP installation :-(
