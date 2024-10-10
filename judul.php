@@ -166,7 +166,7 @@ foreach ($names as $index => $name) {
     $content = "";
 
     // Hasilkan 2 judul dan deskripsi
-    for ($i = 0; $i < 2; $i++) {
+    for ($i = 0; $i < 5; $i++) {
         $data = generateRandomTitleAndDescription($name);
         $title = $data['title'];
         $description = $data['description'];
