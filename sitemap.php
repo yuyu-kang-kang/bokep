@@ -4,7 +4,7 @@
  */
 
 // Configuration
-$base_url = 'https://www.lbliagalaxy.com'; // Base URL of your website
+$base_url = 'https://lbliagalaxy.com'; // Base URL of your website
 $root_dir = './'; // Root directory to scan for files
 $exclude_dirs = array('admin', 'login'); // Directories to exclude from the sitemap
 $exclude_files = array('sitemap.php'); // Files to exclude from the sitemap
