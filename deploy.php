@@ -1,5 +1,5 @@
 <?php
-$hostname = 'www.lbliagrogol.com';
+$hostname = 'www.lbliagalaxy.com';
 $dataFolder = 'data/';
 $templateFolder = 'templates/';
 
