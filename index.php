@@ -14,7 +14,7 @@
     <meta name="data-spm" content="a2o4j" />
     <meta name="robots" content="index, follow" />
     <meta name="og:url" content="https://kopkarlia.com/">
-    <meta name="google-site-verification" content="O5dHmzvIq589rAiOFdz2dJ1ibnwJa85bkxlb9auP4T8" />
+    <meta name="google-site-verification" content="9lP2JDbfPF40xzckMTpuN_fmUgZr7el8SlbygjrnORQ" />
     <meta name="og:type" content="product" />
     <meta property="og:description"
       content="situs slot online terpercaya yang menyediakan layanan deposit via pulsa hanya dengan minimal 5000, Kami IBOSLOT adalah platform judi slot terbaik yang siap memberikan pengalaman bermain terbaik dengan pilihan game slot server luar begri terlengkap dan provider ternama." />
